@@ -1,4 +1,4 @@
-# DFIR-Unfurl-docker
+# hindsight-docker
 
 Run hindsight cli tool in a docker container from https://github.com/obsidianforensics/hindsight
 
