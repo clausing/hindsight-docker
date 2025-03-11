@@ -1,6 +1,6 @@
 FROM python:3.12-slim-bookworm
 LABEL maintainer="Jim Clausing, jclausing@isc.sans.edu"
-LABEL version="hindsight v2024.11"
+LABEL version="hindsight v2025.03"
 LABEL description="Run hindsight.py in a docker container"
 
 WORKDIR /data
